@@ -9,3 +9,6 @@ Predict whether pressure in Shanghai is lower than its median or not.
 
 [Seminar 4 homework. Decision Trees and Random Forests.](https://github.com/sevlabr/Data-analysis-MIPT-Term-9/tree/main/Sem%204%20HW)
 Predict salaries using sklearn and own implementation of Decision Tree.
+
+[Seminar 5 homework. SVM and kNN.](https://github.com/sevlabr/Data-analysis-MIPT-Term-9/tree/main/Sem%205%20HW)
+Transform non-linear data in such a way that it can be processed successfully by SVM with linear kernel. Compare results with kNN.
